@@ -1,0 +1,16 @@
+{
+"companyName": "AKTO",
+"productName": "Xmascard_Karavia_Anthi",
+"dataUrl": "AnthiXMcardb.data.unityweb",
+"wasmCodeUrl": "AnthiXMcardb.wasm.code.unityweb",
+"wasmFrameworkUrl": "AnthiXMcardb.wasm.framework.unityweb",
+"asmCodeUrl": "AnthiXMcardb.asm.code.unityweb",
+"asmMemoryUrl": "AnthiXMcardb.asm.memory.unityweb",
+"asmFrameworkUrl": "AnthiXMcardb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
